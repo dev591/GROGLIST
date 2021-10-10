@@ -1,1 +1,2 @@
-# GROGLIST
+# Geologist
+Geologist Project
